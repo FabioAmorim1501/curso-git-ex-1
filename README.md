@@ -1,3 +1,5 @@
 # Exercício 1 do curso git
 
-Texto adicionado de acordo com o solicitado
+Escreva um texto abaixo do título como desejar
+
+Escreva um novo parágrafo no seu texto
